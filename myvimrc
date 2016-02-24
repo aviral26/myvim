@@ -1,0 +1,8 @@
+set cursorline
+set showcmd
+set wildmenu
+set showmatch
+set incsearch
+filetype indent on
+set number
+syntax on
