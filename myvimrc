@@ -1,7 +1,7 @@
-set cursorline
 set showcmd
 set wildmenu
 set showmatch
+set title
 set incsearch
 filetype indent on
 set number
